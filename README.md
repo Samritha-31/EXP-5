@@ -53,13 +53,19 @@ LOAD REGULATION:
  |5|500|5.20|
  |6|600|5.21|
 
+ CIRCUIT DIAGRAM:
 
+ LINE AND LOAD REGULATION:
+
+ <img width="1155" height="695" alt="BEEE EX5" src="https://github.com/user-attachments/assets/934bc429-22ba-4e50-8f9a-e454f7b94bd1" />
 
 PRECAUTIONS:
 
 1. While doing the experiment do not exceed the ratings of the zener diode. This may lead to damage the diode.
+
 2. Connect voltmeter and Ammeter in correct polarities as shown in the circuit diagram.
 
 3. Do not switch ON the power supply unless you have checked the circuit connections as per the circuit diagram.
+
 RESULT:
 The Characteristics of Zener Break Diode Voltage Regulation from the Characteristics are Observed.
